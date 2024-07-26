@@ -208,6 +208,7 @@ body {
         display:grid;
         grid-template-columns: repeat(4,1fr);
         /* grid-template-rows: repeat(6,1fr); */
+        margin-top:1.5rem;
     }
     .one{
         /* grid-row: 1/2; */
